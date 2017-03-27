@@ -1,0 +1,27 @@
+POST /AttendanceMRest/100000/AttendanceVacation/GetVacationRecords HTTP/1.1
+
+Host: cloud.italent.link
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/x-www-form-urlencoded
+
+Origin: http://cloud.italent.link
+
+Referer: http://cloud.italent.link/attendance/?tenant_id=100102&user_id=112055937&app_id=909&time_stamp=1490336454&sign=63b28317bddcdb35f338bfd47795ac51&sign_type=1
+
+Content-Length: 93
+
+Cookie: BSSaaS=53B54E6E9A9D5CA320F2AEDD52D912E71FC7DDDB939B3627A08DC5C4BDB36CB889F744AD0220131B449CDC32E358E372A1836301E6E5C41014571D476E60AD8686DA9E48B29EA29B1EF51902C9E650653B149FF7FFD8B53FE0582385D7029F9B0FB5045C214728B5F3AFF52FE83EA348761C328FE82A02D31804E4D4822F6890E61B12A73AB73927ED1F254EE140C1B2AC1207965D4ED0C95A1EFFD44A3DD26D5B27B222
+
+Connection: close
+
+
+
+staffId=112055937&oIdVacationType=&startDate=2017/03/24 14:21:10&stopDate=2017/03/25 14:21:14
